@@ -1,0 +1,39 @@
+{
+  "name": "vovel556qnofjdkougbi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@dimforge/rapier3d": "^0.14.0",
+    "@latticexyz/common": "^2.2.11",
+    "@latticexyz/dev-tools": "^2.2.11",
+    "@latticexyz/faucet": "^2.2.11",
+    "@latticexyz/react": "^2.2.11",
+    "@latticexyz/recs": "^2.2.11",
+    "@latticexyz/schema-type": "^2.2.11",
+    "@latticexyz/store-sync": "^2.2.11",
+    "@latticexyz/utils": "^2.2.11",
+    "@latticexyz/world": "^2.2.11",
+    "@oogg/scripting": "^0.0.1",
+    "@types/react": "^18.3.11",
+    "animejs": "^3.2.2",
+    "colyseus": "^0.15.17",
+    "ethers": "^6.13.4",
+    "gsap": "^3.12.5",
+    "partysocket": "^1.0.2",
+    "react": "^18.3.1",
+    "three": "^0.169.0",
+    "uikit": "^3.21.13",
+    "viem": "^2.21.28"
+  },
+  "metadata": {
+    "awe": true,
+    "gameId": "VoVel556QnOFJdKoUGBi"
+  }
+}

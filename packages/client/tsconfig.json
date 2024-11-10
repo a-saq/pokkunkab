@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "jsx": "react-jsx",
+        "baseUrl": "./", 
+        "paths": {
+            "@oo/scripting": ["node_modules/@oogg/scripting"]
+        },
+        "target": "esnext",
+        "module": "commonjs",
+        "checkJs": true,
+        "allowJs": true,
+        "esModuleInterop": true,
+        "moduleResolution": "node",
+    }
+}
